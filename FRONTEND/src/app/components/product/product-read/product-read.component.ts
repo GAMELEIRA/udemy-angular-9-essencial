@@ -20,9 +20,7 @@ export class ProductReadComponent implements OnInit {
     this.productService.readProduct().subscribe(products => {
 
         this.products = products;
-
-        console.log(products);
-
+        
     });
 
   }

@@ -3,3 +3,27 @@ button {
     margin-bottom: 30px;
 
 }
+
+table {
+
+    width: 100%;
+
+}
+
+.edit {
+
+    margin-right: 10px;
+
+}
+
+.edit > i {
+
+    color: "green";
+
+}
+
+.delete > i{
+
+    color: red;
+
+}
